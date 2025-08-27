@@ -1,0 +1,12 @@
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+rust-project.json
+.idea
+
+# AOC specific
+input.txt
+input
+puzzle.md
+example.txt
