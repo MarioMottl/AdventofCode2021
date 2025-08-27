@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-YEAR_NUMBER=2024
+YEAR_NUMBER=2021
 
 if [ "$#" -ne 1 ]; then
   echo "Usage: $0 <day>"
